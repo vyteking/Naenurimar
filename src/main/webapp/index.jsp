@@ -13,13 +13,13 @@
 </head>
 <body>
 <div id="headerhere">
-
+	<jsp:include page="/userinterface/header.jsp"/>
 </div>
 <div id="mainmenu">
-
+	<jsp:include page="/userinterface/mainmenu.jsp"/>
 </div>
 <div id="footerhere">
-
+	<jsp:include page="/userinterface/footer.jsp"/>
 </div>
 </body>
 </html>

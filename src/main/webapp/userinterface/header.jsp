@@ -18,6 +18,8 @@ logo
 </div>
 <div class="header_btn" id="userlogininfo">
 userinfo
+<a href="./user/logintemplate.jsp">login</a>
+<a href="logout.do">logout</a>
 </div>
 </body>
 </html>

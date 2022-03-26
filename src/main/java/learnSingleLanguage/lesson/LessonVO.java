@@ -9,7 +9,8 @@ package learnSingleLanguage.lesson;
  */
 public class LessonVO {
 	private long lessonindex;
-	private long lessontitle;
+	private String lessontitle;
 	private int lessonlevel;
-	private int questionsnumber;
+	private int questionscount;
+	private String lessondescription;
 }
