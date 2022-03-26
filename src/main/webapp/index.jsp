@@ -4,9 +4,22 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>main</title>
+<style>
+	#mainmenu {
+		overflow: auto;
+	}
+</style>
 </head>
 <body>
+<div id="headerhere">
 
+</div>
+<div id="mainmenu">
+
+</div>
+<div id="footerhere">
+
+</div>
 </body>
 </html>

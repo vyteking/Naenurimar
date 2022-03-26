@@ -1,0 +1,3 @@
+kor : 한국말
+jpn : 일본말
+zhw-simp: 

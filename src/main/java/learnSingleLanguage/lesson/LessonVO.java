@@ -8,5 +8,8 @@ package learnSingleLanguage.lesson;
  *
  */
 public class LessonVO {
-
+	private long lessonindex;
+	private long lessontitle;
+	private int lessonlevel;
+	private int questionsnumber;
 }
