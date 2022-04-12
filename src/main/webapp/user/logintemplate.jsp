@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>login</title>
 </head>
 <body>
 <form action="/loginaction.do" method="post" id="logintemplate" class="logintemplate">
@@ -20,7 +20,7 @@
 	</table>
 	<input type="reset" id="reset_logintemplate" value="비우기">
 	<input type="submit" id="submit_logintemplate" value="로그인하기">
-	<a href="/user/signuptemplate.jsp"><input type="button" id="signupbutton" value="회원가입"></a>
+	<a href="jointemplate.jsp"><input type="button" id="signupbutton" value="회원가입"></a>
 </form>
 </body>
 </html>

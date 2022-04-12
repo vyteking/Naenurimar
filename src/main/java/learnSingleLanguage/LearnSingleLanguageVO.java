@@ -13,4 +13,5 @@ public class LearnSingleLanguageVO {
 	private String languagename_Native;
 	private String languagename_Displayed;
 	private String singlelanguageiconlink;
+
 }

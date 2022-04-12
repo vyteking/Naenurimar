@@ -9,7 +9,7 @@ package board.post;
  */
 public class ForumpostVO {
 	private long postindex;
-	private long postwriterindex1st;
+	private long postwriterusercode2nd;
 	private String postwriterusernickname;
 	private String posttitle;
 	private String postcontext;

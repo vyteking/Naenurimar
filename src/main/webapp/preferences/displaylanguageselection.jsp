@@ -13,10 +13,10 @@ div {
 </head>
 <body>
 <div class="displaylanguageselectionwindow">
-	<table id="languagestable">
+	<table class="languagestable" id="languagestable">
 		<tr>
-			<td>원어표기</td>
-			<td>언어이름</td>
+			<td class="languagestable" id="native_name">원어표기</td>
+			<td class="languagestable" id="languagename_displayed">언어이름</td>
 		</tr>
 		<tr>
 			<td></td>

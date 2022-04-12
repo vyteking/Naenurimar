@@ -22,6 +22,9 @@
 	<div class="mainbutton" id="phrases">
 		phrases
 	</div>
+	<div class="mainbutton" id="reading">
+		reading
+	</div>
 	<div class="mainbutton" id="forum">
 		forum
 	</div>
